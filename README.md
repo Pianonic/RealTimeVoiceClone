@@ -2,6 +2,8 @@
 
 A lightweight application that automatically trains a voice conversion model from new audio samples and converts audio files using the trained model.
 
+> **⚠️ Important Note:** This project is currently under development and may not function as described directly from the main branch.
+
 ## Features
 
 - **Automatic Training**: Monitors a folder for new voice samples and automatically incorporates them into training
